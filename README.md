@@ -2,15 +2,15 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">Técnica em Desenvolvimento de Sistemas</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Sobre mim</h2>
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">Sou estudante do Ensino Médio no SESI Milton Sobrosa e curso Técnico em Desenvolvimento de Sistemas pelo SENAI Nami Jafet (3º/4º semestre). Tenho conhecimentos em Java, JavaScript, MySQL, PHP e Node.js, e venho desenvolvendo minhas habilidades na área de tecnologia, buscando aprender cada vez mais e evoluir profissionalmente.</p>
 
 ###
 
