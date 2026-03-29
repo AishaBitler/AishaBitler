@@ -24,6 +24,10 @@
   <img width="12" />
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1280px-PHP-logo.svg.png" height="40" alt="php logo"  />
   <img width="12" />
+  <img src="https://www.infoescola.com/wp-content/uploads/2011/03/java.jpg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1280px-PHP-logo.svg.png" height="40" alt="php logo"  />
+  <img width="12" />
 </div>
 
 ###
