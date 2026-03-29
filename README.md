@@ -10,7 +10,8 @@
 
 ###
 
-<p align="left">Sou estudante do Ensino Médio no SESI Milton Sobrosa e curso Técnico em Desenvolvimento de Sistemas pelo SENAI Nami Jafet (3º/4º semestre). Tenho conhecimentos em Java, JavaScript, MySQL, PHP e Node.js, e venho desenvolvendo minhas habilidades na área de tecnologia, buscando aprender cada vez mais e evoluir profissionalmente.</p>
+<p align="left">Sou estudante do Ensino Médio no SESI Milton Sobrosa e curso Técnico em Desenvolvimento de Sistemas pelo SENAI Nami Jafet (3º/4º semestre). Tenho grande interesse pela área de tecnologia e venho me dedicando ao desenvolvimento das minhas habilidades, tanto na parte prática quanto teórica. Busco sempre aprender coisas novas, me desafiar em projetos e evoluir constantemente, com o objetivo de crescer profissionalmente e construir uma carreira sólida na área de desenvolvimento de sistemas.
+</p>
 
 ###
 
